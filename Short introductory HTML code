@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Resume</title>
+    </head>
+    <body>
+    <h1>Hussien Al-Hashimi</h1>
+    <p></p>
+    <strong>Personal Trainer</strong><br />
+    <strong>In The Making Web Developer</strong><br />
+    <img src="https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png" height=50px width=50px border=1px alt="image">
+    <hr>
+    <h2><i>Summary</i></h2>
+    In training web developer learning to become proficient in both front and back end web development. I am 28 and have spent my whole life in fitness and sports, however, when I first stumblrd across coding, I immediately knew this is what I needed as a career. I enjoy coding and absolutely love learning new languages upon completion of another.
+    <h2><i>Experience</i></h2>
+    <ul>
+    <li>Boots</li>
+        2013-2016 Pharmaceutical and Retail services including stock counts and replenishments.<br />
+    <p></p><li>Holland and Barrett</li>
+    2017-2018 Customer service and Advice regarding supplementation and health.
+    <p></p><li>Fairlee Pharmacy</li>
+    2018-2020 Pharmaceutical services, customer service, and advice on health products and therapy.
+    </ul>
+    <h2><i>Skills</i></h2>
+    <table border="2">
+        <tr>
+             <th>Customer Service</th>
+             <td>Applying knowledge</td>
+             <td>Product experiences</td>
+             <td>Link Selling</td>
+        </tr>
+        <tr>
+            <th>Tech Fluency</th>
+            <td>Technology Usage</td>
+            <td>High Experience</td>
+            <td>Adaptability</td>
+        </tr>
+        <tr>
+            <th>Personality</th>
+            <td>Problem Solving</td>
+            <td>Team Work</td>
+            <td>Clear and Concise</td>
+        </tr>
+    </table>
+    <h2><i>Links</i></h2>
+    <a href="https://www.instagram.com/hussienalhashimi/" target="_blank"> 
+    My Instagram
+    </a>
+    <h2><i>Contact Me</i></h2>
+    <form>
+        <input placeholder="Name" required><br />
+        <input placeholder="Email" required><br />
+        <textarea placeholder="Message" required></textarea><p></p>
+        Tick the ones that apply<br>
+        <input type="checkbox" name="Details"> Interesting <br>
+        <input type="checkbox" name="Details"> Presentable <br>
+        <input type="checkbox" name="Details"> Needs Improvement
+        <br>
+        <br>
+        <input type="submit" value="SEND"/>
+    </form>
+    </body>
+</html>
